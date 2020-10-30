@@ -12,11 +12,11 @@ You are allowed, of course, to use documentation sites, Google, stackoverflow.co
 
 In this exercise I used the grid css to recreate this example. 
 
-[Interface 1](index1.html)
+[Interface 1](https://fran1409.github.io/css-intergration/index1.html)
 
 ## Interface 2
 
-[Interface 2](index2.html)
+[Interface 2](https://fran1409.github.io/css-intergration/index2.html)
 
 ## Published page
 https://fran1409.github.io/css-intergration/
