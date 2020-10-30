@@ -8,13 +8,15 @@ You are allowed, of course, to use documentation sites, Google, stackoverflow.co
 - Commit (and push) at least once every hour (set a timer to remind you if you need to).
 - If there is anything that you don't understand about this exercise, ask your coach on your promotion's Discord channel!
 
-## Integration 1
+## Interface 1
 
 In this exercise I used the grid css to recreate this example. 
 
-[Integration 1](index1.html)
+[Interface 1](index1.html)
 
-## Integration 2
+## Interface 2
+
+[Interface 1](index2.html)
 
 ## Published page
 https://fran1409.github.io/css-intergration/
