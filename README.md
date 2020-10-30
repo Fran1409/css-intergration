@@ -16,7 +16,7 @@ In this exercise I used the grid css to recreate this example.
 
 ## Interface 2
 
-[Interface 1](index2.html)
+[Interface 2](index2.html)
 
 ## Published page
 https://fran1409.github.io/css-intergration/
