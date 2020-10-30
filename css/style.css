@@ -1,13 +1,15 @@
 .box {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: 15% 15% 15% 15%;
     grid-template-rows: repeat(1, 10vw);
     grid-gap: 15px;
-    font-family: "PT Sans", Helvetica, sans-serif;
+    font-family: "PT Sans", sans-serif;
+    justify-content: center;
 }
 
 .section {
     text-align: center;
+    margin-left: 15px;
 }
 
 img {
