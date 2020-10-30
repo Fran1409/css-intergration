@@ -16,6 +16,8 @@ In this exercise I used the grid css to recreate this example.
 
 ## Interface 2
 
+In this exercise I used the card bootstrap to recreate this example.
+
 [Interface 2](https://fran1409.github.io/css-intergration/index2.html)
 
 ## Published page

@@ -1,3 +1,25 @@
 .container {
     margin-top: 15px;
+    
+}
+
+.card {
+    background-color: rgb(069,141,241);
+    color: rgb(204,223,251);
+}
+
+.table {
+    color: rgb(204,223,251);
+}
+
+.number {
+    font-size: 60px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn {
+    justify-content: right;
+    color: rgb(204,223,251);
 }
