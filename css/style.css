@@ -3,6 +3,7 @@
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, 10vw);
     grid-gap: 15px;
+    font-family: "PT Sans", Helvetica, sans-serif;
 }
 
 .section {
