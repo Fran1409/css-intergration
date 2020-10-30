@@ -13,3 +13,8 @@ You are allowed, of course, to use documentation sites, Google, stackoverflow.co
 In this exercise I used the grid css to recreate this example. 
 
 [Integration 1](index1.html)
+
+## Integration 2
+
+## Published page
+https://fran1409.github.io/css-intergration/
