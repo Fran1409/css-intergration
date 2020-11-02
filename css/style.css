@@ -3,7 +3,7 @@
     grid-template-columns: 15% 15% 15% 15%;
     grid-template-rows: repeat(1, 10vw);
     grid-gap: 15px;
-    font-family: "PT Sans", sans-serif;
+    font-family: monospace, sans-serif;
     justify-content: center;
 }
 
@@ -12,6 +12,7 @@
     margin-top: 15px;
     margin-left: 15px;
 }
+
 
 img {
     max-width: 100%;
