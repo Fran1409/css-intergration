@@ -1,0 +1,13 @@
+#mockup {
+    width: 500px;
+    height: 516px;
+    background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-verou-1-26/master/1.The-Field/4.HTML-CSS/5.End-of-Field/1.Trial-Run/images/15.card-small.png?token=ARLOQAQ6AQAFZKTXWDE4RF27XOPAM);
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    opacity: 0.5;
+    z-index: 10;
+    pointer-events: none;
+  }
