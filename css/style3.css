@@ -50,15 +50,24 @@ body {
 
   .info {
       display: grid;
-      grid-template-columns: 19% 81%;
+      grid-template-columns: 19% 59% 30%;
       margin-top: 60px;
   }
 
-  .info h6 {
+  .author h6 {
       font-size: 12px;
       margin-top: 3px;
   }
 
-  .info p {
+  .author p {
       font-size: small;
+  }
+
+  .bookmark img#bookmark {
+      height: 20px;
+      margin-top: 10px;
+  }
+
+  .bookmark img#arrow {
+      height: 10px;
   }
