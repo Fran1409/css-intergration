@@ -48,3 +48,17 @@ body {
       font-size: 15px;
   }
 
+  .info {
+      display: grid;
+      grid-template-columns: 19% 81%;
+      margin-top: 60px;
+  }
+
+  .info h6 {
+      font-size: 12px;
+      margin-top: 3px;
+  }
+
+  .info p {
+      font-size: small;
+  }
