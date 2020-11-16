@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #mockup {
     width: 500px;
     height: 516px;
@@ -10,4 +15,9 @@
     opacity: 0.5;
     z-index: 10;
     pointer-events: none;
+  }
+
+  img {
+      margin: 1px;
+
   }
