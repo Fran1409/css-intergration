@@ -23,7 +23,7 @@ body {
 
   .container {
       display: grid;
-      grid-template-columns: 50% 50%;
+      grid-template-columns: 45% 55%;
       width: 489px;
       height: 258px;
       margin-top: 1px;
@@ -36,3 +36,15 @@ body {
       margin: 1px;
 
   }
+
+  .title {
+      margin-top: 18px;
+      margin-left: 2px;
+      line-height: 1.4;
+  }
+
+  .text {
+      line-height: 1.4;
+      font-size: 15px;
+  }
+
