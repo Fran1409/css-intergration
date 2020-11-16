@@ -17,6 +17,17 @@
     pointer-events: none;
   }
 
+  .container {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      width: 489px;
+      height: 258px;
+      margin-top: 1px;
+      border-style: solid;
+      border-color: #F0F0F1;
+      border-width: 1px;
+  }
+
   img {
       margin: 1px;
 
